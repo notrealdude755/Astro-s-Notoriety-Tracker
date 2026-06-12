@@ -8,14 +8,14 @@ A screen-reading tracker for [Notoriety](https://www.roblox.com/games/21532277/N
 
 **[Download the latest release here](https://github.com/notrealdude755/Astro-s-Notoriety-Tracker/releases/tag/1.0_PreRelese)**
 
-> **Windows SmartScreen warning?** That's normal for small indie tools that aren't signed. Just hit **More info → Run anyway** — the full source is right here in the repo if you want to check it yourself.
+> **Windows SmartScreen warning?** That's normal for small indie tools that aren't signed. Just hit **More info → Run anyway**.
 
 ---
 
 ## Getting started
 
-Just grab the EXE from the [Releases](https://github.com/notrealdude755/Astro-s-Notoriety-Tracker/releases/tag/1.0_PreRelese) page, drop it anywhere, and double-click. No install, no setup.
-
+Just grab the EXE from the [Releases](https://github.com/notrealdude755/Astro-s-Notoriety-Tracker/releases/tag/1.0_PreRelese) page, drop it anywhere, and double-click.
+You also need to install Tesseract [Download from here](https://github.com/UB-Mannheim/tesseract/wiki), without it tracker wont work.
 ---
 
 ## How to use it
