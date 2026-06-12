@@ -1,12 +1,12 @@
 # Astro's Notoriety Tracker — v1.0
 
-A screen-reading tracker for [Notoriety](https://www.roblox.com/games/476453234) on Roblox. It automatically picks up your timer, cash and XP at the end of each heist so you can track earnings, plan rotations, and manage ECM timers without tabbing out or doing the math yourself.
+A screen-reading tracker for [Notoriety](https://www.roblox.com/games/21532277/Notoriety-A-PAYDAY-Experience) on Roblox. It automatically picks up your timer, cash and XP at the end of each heist so you can track earnings, plan rotations, and manage ECM timers without tabbing out or doing the math yourself.
 
 ---
 
 ## Download
 
-**[Download the latest release here](https://github.com/YOURNAME/notoriety-tracker/releases/latest)**
+**[Download the latest release here](https://github.com/notrealdude755/Astro-s-Notoriety-Tracker/releases/tag/1.0_PreRelese)**
 
 > **Windows SmartScreen warning?** That's normal for small indie tools that aren't signed. Just hit **More info → Run anyway** — the full source is right here in the repo if you want to check it yourself.
 
@@ -14,7 +14,7 @@ A screen-reading tracker for [Notoriety](https://www.roblox.com/games/476453234)
 
 ## Getting started
 
-Just grab the EXE from the [Releases](https://github.com/YOURNAME/notoriety-tracker/releases/latest) page, drop it anywhere, and double-click. No install, no setup.
+Just grab the EXE from the [Releases](https://github.com/notrealdude755/Astro-s-Notoriety-Tracker/releases/tag/1.0_PreRelese) page, drop it anywhere, and double-click. No install, no setup.
 
 ---
 
